@@ -12,7 +12,7 @@ The code has been run under Python 3.10.15 with the following packages of the ve
 
 Required packages: Numpy (1.26.4), Numba (0.60.0), Ray (2.38.0), matplotlib (3.9.2)
 
-The file `diff_eq_plot.ipynb` includes the code for numerically solving the Duffing equation (Eq. 30 in the paper) using RK4, the following Fourier analysis, and plotting the figures in the paper.
+The Jupyter notebook file `diff_eq_plot.ipynb` includes the code for numerically solving the Duffing equation (Eq. 30 in the paper) using RK4, the following Fourier analysis, and plotting the figures in the paper.
 
 
 To simulate MQC dynamics within the MF model, go to the `MQC` folder and execute:

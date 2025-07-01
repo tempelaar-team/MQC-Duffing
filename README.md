@@ -1,11 +1,8 @@
 # Mixed Quantum-Classical Dynamics Yields Anharmonic Rabi Oscillations
 Authors: Ming-Hsiu Hsieh, Roel Tempelaar
 
-*J. Chem. Phys.* **2025**, accepted
+Publication: [*J. Chem. Phys.* **2025**, *162*, 224109](https://doi.org/10.1063/5.0266594)
 
-Arxiv: [https://arxiv.org/abs/2502.05767](https://arxiv.org/abs/2502.05767)
-
-Publication: not yet available
 
 ## Usage of the code
 The code has been run under Python 3.10.15 with the following packages of the version specified in parentheses.
